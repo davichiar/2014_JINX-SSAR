@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SS&amp;R</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="choose_files">choose_files</string>
+    <string name="only_one_item">only_one_item</string>
+    <string name="filter_listed">filter_listed</string>
+    <string name="filter_exclude">filter_exclude</string>
+    <string name="choice_type_all">choice_type_all</string>
+    <string name="choice_type_files">choice_type_files</string>
+    <string name="choice_type_directories">choice_type_directories</string>
+    <string name="choice_type">choice_type</string>
+    <string name="disable_new_folder_button">disable_new_folder_button</string>
+    <string name="disable_sort_button">disable_sort_button</string>
+    <string name="action_help"></string>
+
+</resources>
